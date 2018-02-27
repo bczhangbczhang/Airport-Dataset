@@ -7,5 +7,7 @@ The format of the annotation file for each aircraft is:
  <br /> _*Frame number    min_x     min_y     width     height     quantized_direction    ID*_
  <br />
  <br />Here, the quantized_direction is a number from 1 to 8 represnts the dirction of the airctaft as the following figure:
+ <br />
+ ![alt text](https://github.com/bczhangbczhang/Airport-Dataset/blob/master/DON_.jpg)
  
 
