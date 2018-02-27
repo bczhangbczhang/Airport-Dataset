@@ -4,7 +4,7 @@ A new dataset for multiple aircraft tracking from an airborne camera is presente
 
 The format of the annotation file for each aircraft is:
  <br />
- <br /> *Frame number    min_x     min_y     width     height     quantized_direction    ID*
+ <br /> _*Frame number    min_x     min_y     width     height     quantized_direction    ID*_
  <br />
  <br />Here, the quantized_direction is a number from 1 to 8 represnts the dirction of the airctaft as the following figure:
  
